@@ -5243,7 +5243,12 @@ var domains = {
   "bmfinn.com": 1, 
   "ntdtv.com": 1, 
   "hsselite.com": 1, 
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1,
+
+  "新增开始.com.tw": 1,
+  "githubusercontent.com": 1,
+  "新增结束.com.tw": 1
+
 };
 
 var direct = 'DIRECT;';
