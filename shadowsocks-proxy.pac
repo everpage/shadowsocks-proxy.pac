@@ -5248,6 +5248,7 @@ var domains = {
   "新增开始.com.tw": 1,
   "githubusercontent.com": 1,
   "evernote.com": 1,
+  "cloudfront.net": 1,
   "新增结束.com.tw": 1
 
 };
