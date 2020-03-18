@@ -5246,6 +5246,7 @@ var domains = {
   "evernote.com": 1,
   "cloudfront.net": 1,
   "githubusercontent.com": 1,
+  "assets.gitlab-static.net": 1,
   "新增结束.com.is": 1
 };
 
